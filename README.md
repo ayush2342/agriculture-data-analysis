@@ -40,3 +40,7 @@ This file contains the DataTables component, which displays aggregated crop data
 
 2. utils/dataProcessor.js
 This file contains the processData function, which processes the raw data and aggregates it into tables.
+
+Snapshots:
+![alt text](image.png)
+![alt text](image-1.png)
