@@ -8,7 +8,7 @@ Data Fetch URL  - https://drive.google.com/file/d/1p1UW__9DvRuscA01kUFTMz_CUMKvT
 To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone <repository_url>
+   git clone https://github.com/ayush2342/agriculture-data-analysis.git
    
 2. Navigate to the project directory:
    cd indian-agriculture-data-analysis
